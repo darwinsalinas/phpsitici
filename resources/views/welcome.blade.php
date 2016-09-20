@@ -15,7 +15,7 @@
             html, body {
                 background-color: #fff;
                 color: #636b6f;
-                font-family: 'Raleway';
+                font-family: 'Raleway', sans-serif;
                 font-weight: 100;
                 height: 100vh;
                 margin: 0;
@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Bienvenido al sistema de Autolotes
+                    Laravel
                 </div>
 
                 <div class="links">
